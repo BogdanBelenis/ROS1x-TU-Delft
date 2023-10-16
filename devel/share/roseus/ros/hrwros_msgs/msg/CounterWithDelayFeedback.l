@@ -1,0 +1,1 @@
+/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayFeedback.l
