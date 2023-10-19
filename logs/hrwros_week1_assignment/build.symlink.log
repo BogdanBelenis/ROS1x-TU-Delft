@@ -1,18 +1,18 @@
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_week1_assignment/BoxHeightInformation.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_week1_assignment/_index.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_week1_assignment/msg/_index.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_week1_assignment/msg/BoxHeightInformation.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_week1_assignment/cmake/hrwros_week1_assignment-msg-paths.cmake
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_week1_assignment/cmake/hrwros_week1_assignmentConfig.cmake
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_week1_assignment/cmake/hrwros_week1_assignmentConfig-version.cmake
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_week1_assignment/cmake/hrwros_week1_assignment-msg-extras.cmake
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_week1_assignment/msg/_package_BoxHeightInformation.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_week1_assignment/msg/hrwros_week1_assignment-msg.asd
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_week1_assignment/msg/_package.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_week1_assignment/msg/BoxHeightInformation.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_week1_assignment/manifest.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_week1_assignment/msg/BoxHeightInformation.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_week1_assignment/__init__.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_week1_assignment/msg/__init__.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_week1_assignment/msg/_BoxHeightInformation.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/pkgconfig/hrwros_week1_assignment.pc
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/include/hrwros_week1_assignment/BoxHeightInformation.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_week1_assignment/BoxHeightInformation.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/gennodejs/ros/hrwros_week1_assignment/_index.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_week1_assignment/_index.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/gennodejs/ros/hrwros_week1_assignment/msg/_index.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_week1_assignment/msg/_index.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/gennodejs/ros/hrwros_week1_assignment/msg/BoxHeightInformation.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_week1_assignment/msg/BoxHeightInformation.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/hrwros_week1_assignment/cmake/hrwros_week1_assignment-msg-paths.cmake, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_week1_assignment/cmake/hrwros_week1_assignment-msg-paths.cmake)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/hrwros_week1_assignment/cmake/hrwros_week1_assignmentConfig.cmake, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_week1_assignment/cmake/hrwros_week1_assignmentConfig.cmake)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/hrwros_week1_assignment/cmake/hrwros_week1_assignmentConfig-version.cmake, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_week1_assignment/cmake/hrwros_week1_assignmentConfig-version.cmake)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/hrwros_week1_assignment/cmake/hrwros_week1_assignment-msg-extras.cmake, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_week1_assignment/cmake/hrwros_week1_assignment-msg-extras.cmake)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/common-lisp/ros/hrwros_week1_assignment/msg/_package_BoxHeightInformation.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_week1_assignment/msg/_package_BoxHeightInformation.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/common-lisp/ros/hrwros_week1_assignment/msg/hrwros_week1_assignment-msg.asd, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_week1_assignment/msg/hrwros_week1_assignment-msg.asd)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/common-lisp/ros/hrwros_week1_assignment/msg/_package.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_week1_assignment/msg/_package.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/common-lisp/ros/hrwros_week1_assignment/msg/BoxHeightInformation.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_week1_assignment/msg/BoxHeightInformation.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/roseus/ros/hrwros_week1_assignment/manifest.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_week1_assignment/manifest.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/share/roseus/ros/hrwros_week1_assignment/msg/BoxHeightInformation.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_week1_assignment/msg/BoxHeightInformation.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/lib/python3/dist-packages/hrwros_week1_assignment/__init__.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_week1_assignment/__init__.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/lib/python3/dist-packages/hrwros_week1_assignment/msg/__init__.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_week1_assignment/msg/__init__.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/lib/python3/dist-packages/hrwros_week1_assignment/msg/_BoxHeightInformation.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_week1_assignment/msg/_BoxHeightInformation.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_week1_assignment/lib/pkgconfig/hrwros_week1_assignment.pc, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/pkgconfig/hrwros_week1_assignment.pc)

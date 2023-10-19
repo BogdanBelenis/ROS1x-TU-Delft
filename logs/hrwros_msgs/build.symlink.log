@@ -1,97 +1,97 @@
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayAction.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayGoal.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/ObjectDetection.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayActionGoal.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/SensorInformation.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/TargetToolPoses.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayActionFeedback.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/RobotTrajectories.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayFeedback.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayResult.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayActionResult.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/ConvertMetresToFeet.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/ConvertMetresToFeetRequest.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/ConvertMetresToFeetResponse.h
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/_index.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/srv/_index.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/srv/ConvertMetresToFeet.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/_index.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/RobotTrajectories.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayGoal.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/TargetToolPoses.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/ObjectDetection.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayResult.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/SensorInformation.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayAction.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayActionFeedback.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayActionGoal.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayFeedback.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayActionResult.js
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/srv/hrwros_msgs-srv.asd
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/srv/ConvertMetresToFeet.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/srv/_package.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/srv/_package_ConvertMetresToFeet.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayAction.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/RobotTrajectories.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayActionResult.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/hrwros_msgs-msg.asd
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayFeedback.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_ObjectDetection.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayFeedback.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayActionFeedback.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayActionFeedback.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayResult.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_RobotTrajectories.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayAction.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayGoal.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayResult.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/SensorInformation.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayActionGoal.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/ObjectDetection.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_TargetToolPoses.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayActionGoal.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/TargetToolPoses.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayActionResult.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_SensorInformation.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayGoal.lisp
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/cmake/hrwros_msgs-msg-extras.cmake
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/cmake/hrwros_msgs-msg-paths.cmake
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/cmake/hrwros_msgsConfig.cmake
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/cmake/hrwros_msgsConfig-version.cmake
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayActionFeedback.msg
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayAction.msg
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayGoal.msg
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayActionGoal.msg
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayFeedback.msg
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayActionResult.msg
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayResult.msg
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/manifest.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/srv/ConvertMetresToFeet.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayActionGoal.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/ObjectDetection.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/TargetToolPoses.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayActionFeedback.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayResult.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayAction.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayGoal.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayFeedback.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/SensorInformation.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayActionResult.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/RobotTrajectories.l
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/__init__.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/srv/__init__.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/srv/_ConvertMetresToFeet.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionResult.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_ObjectDetection.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionGoal.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_RobotTrajectories.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_TargetToolPoses.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/__init__.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayGoal.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayAction.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_SensorInformation.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionFeedback.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayFeedback.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayResult.py
-Symlinking /home/bogdan/ROS_ws/hrwros_ws/devel/lib/pkgconfig/hrwros_msgs.pc
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/CounterWithDelayAction.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayAction.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/CounterWithDelayGoal.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayGoal.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/ObjectDetection.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/ObjectDetection.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/CounterWithDelayActionGoal.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayActionGoal.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/SensorInformation.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/SensorInformation.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/TargetToolPoses.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/TargetToolPoses.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/CounterWithDelayActionFeedback.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayActionFeedback.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/RobotTrajectories.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/RobotTrajectories.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/CounterWithDelayFeedback.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayFeedback.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/CounterWithDelayResult.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayResult.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/CounterWithDelayActionResult.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayActionResult.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/ConvertMetresToFeet.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/ConvertMetresToFeet.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/ConvertMetresToFeetRequest.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/ConvertMetresToFeetRequest.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/include/hrwros_msgs/ConvertMetresToFeetResponse.h, /home/bogdan/ROS_ws/hrwros_ws/devel/include/hrwros_msgs/ConvertMetresToFeetResponse.h)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/_index.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/_index.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/srv/_index.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/srv/_index.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/srv/ConvertMetresToFeet.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/srv/ConvertMetresToFeet.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/msg/_index.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/_index.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/msg/RobotTrajectories.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/RobotTrajectories.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayGoal.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayGoal.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/msg/TargetToolPoses.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/TargetToolPoses.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/msg/ObjectDetection.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/ObjectDetection.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayResult.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayResult.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/msg/SensorInformation.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/SensorInformation.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayAction.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayAction.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayActionFeedback.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayActionFeedback.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayActionGoal.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayActionGoal.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayFeedback.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayFeedback.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayActionResult.js, /home/bogdan/ROS_ws/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayActionResult.js)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/srv/hrwros_msgs-srv.asd, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/srv/hrwros_msgs-srv.asd)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/srv/ConvertMetresToFeet.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/srv/ConvertMetresToFeet.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/srv/_package.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/srv/_package.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/srv/_package_ConvertMetresToFeet.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/srv/_package_ConvertMetresToFeet.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayAction.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayAction.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/RobotTrajectories.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/RobotTrajectories.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayActionResult.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayActionResult.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/hrwros_msgs-msg.asd, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/hrwros_msgs-msg.asd)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayFeedback.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayFeedback.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/_package_ObjectDetection.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_ObjectDetection.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayFeedback.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayFeedback.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayActionFeedback.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayActionFeedback.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayActionFeedback.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayActionFeedback.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayResult.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayResult.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/_package_RobotTrajectories.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_RobotTrajectories.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayAction.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayAction.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayGoal.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayGoal.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayResult.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayResult.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/SensorInformation.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/SensorInformation.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayActionGoal.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayActionGoal.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/ObjectDetection.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/ObjectDetection.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/_package_TargetToolPoses.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_TargetToolPoses.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayActionGoal.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayActionGoal.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/_package.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/TargetToolPoses.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/TargetToolPoses.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayActionResult.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayActionResult.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/_package_SensorInformation.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_SensorInformation.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayGoal.lisp, /home/bogdan/ROS_ws/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayGoal.lisp)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/hrwros_msgs/cmake/hrwros_msgs-msg-extras.cmake, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/cmake/hrwros_msgs-msg-extras.cmake)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/hrwros_msgs/cmake/hrwros_msgs-msg-paths.cmake, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/cmake/hrwros_msgs-msg-paths.cmake)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/hrwros_msgs/cmake/hrwros_msgsConfig.cmake, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/cmake/hrwros_msgsConfig.cmake)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/hrwros_msgs/cmake/hrwros_msgsConfig-version.cmake, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/cmake/hrwros_msgsConfig-version.cmake)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/hrwros_msgs/msg/CounterWithDelayActionFeedback.msg, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayActionFeedback.msg)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/hrwros_msgs/msg/CounterWithDelayAction.msg, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayAction.msg)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/hrwros_msgs/msg/CounterWithDelayGoal.msg, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayGoal.msg)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/hrwros_msgs/msg/CounterWithDelayActionGoal.msg, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayActionGoal.msg)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/hrwros_msgs/msg/CounterWithDelayFeedback.msg, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayFeedback.msg)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/hrwros_msgs/msg/CounterWithDelayActionResult.msg, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayActionResult.msg)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/hrwros_msgs/msg/CounterWithDelayResult.msg, /home/bogdan/ROS_ws/hrwros_ws/devel/share/hrwros_msgs/msg/CounterWithDelayResult.msg)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/manifest.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/manifest.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/srv/ConvertMetresToFeet.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/srv/ConvertMetresToFeet.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayActionGoal.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayActionGoal.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/ObjectDetection.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/ObjectDetection.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/TargetToolPoses.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/TargetToolPoses.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayActionFeedback.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayActionFeedback.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayResult.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayResult.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayAction.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayAction.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayGoal.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayGoal.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayFeedback.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayFeedback.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/SensorInformation.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/SensorInformation.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayActionResult.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayActionResult.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/share/roseus/ros/hrwros_msgs/msg/RobotTrajectories.l, /home/bogdan/ROS_ws/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/RobotTrajectories.l)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/__init__.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/__init__.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/srv/__init__.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/srv/__init__.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/srv/_ConvertMetresToFeet.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/srv/_ConvertMetresToFeet.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionResult.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionResult.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/msg/_ObjectDetection.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_ObjectDetection.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionGoal.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionGoal.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/msg/_RobotTrajectories.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_RobotTrajectories.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/msg/_TargetToolPoses.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_TargetToolPoses.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/msg/__init__.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/__init__.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayGoal.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayGoal.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayAction.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayAction.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/msg/_SensorInformation.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_SensorInformation.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionFeedback.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionFeedback.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayFeedback.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayFeedback.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayResult.py, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/python3/dist-packages/hrwros_msgs/msg/_CounterWithDelayResult.py)
+Linked: (/home/bogdan/ROS_ws/hrwros_ws/devel/.private/hrwros_msgs/lib/pkgconfig/hrwros_msgs.pc, /home/bogdan/ROS_ws/hrwros_ws/devel/lib/pkgconfig/hrwros_msgs.pc)
